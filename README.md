@@ -20,7 +20,7 @@ Aplicação **Full Stack** para gerenciamento de clientes, com backend em **Node
 
 ---
 
-## 🗂️ Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```bash
 📦 projeto-cadastro-clientes
